@@ -14,7 +14,7 @@ a {
 
 
 header {
-    height: 65px;
+    height: 100px;
     width: 100%;
     background-color: rgba(235, 102, 35, 0.9);
     position: fixed;
@@ -23,7 +23,7 @@ header {
 }
 
 .logo {
-  width: 124px;
+  width: 90px;
   margin-top: 10px;
   margin-left: 10px;
   background-color: white;
